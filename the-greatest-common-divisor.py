@@ -21,3 +21,6 @@ while True:
         k = int(k)
         q = int(q)
         print("the greatest common divisors is :", functioon(k, q))
+    elif k == "w" and q == "w":
+        break
+        
